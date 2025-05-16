@@ -1,2 +1,8 @@
 [[break out]]
 [[Writting down]]
+[[Break down]]
+[[Call off]]
+[[Bring up]]
+[[Set up]]
+[[Pick up]]
+[[Run out of]]

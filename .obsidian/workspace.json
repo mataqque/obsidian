@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0deb728ab6e9249",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "b30ebf310342acb8",
             "type": "leaf",
             "state": {
@@ -125,14 +115,20 @@
             "id": "fda4090bd23b76c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Idiomas/Ingles/verbs compose/Get along (with).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "3d_graph_view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Get along (with)"
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6b20fc59f763b6d0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -168,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ingles/phrases",
+                "query": "tag:#ingles/verbs-compose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +185,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -296,12 +293,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "3d-graph:3D Graph": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fda4090bd23b76c6",
+  "active": "6b20fc59f763b6d0",
   "lastOpenFiles": [
+    "Idiomas/Ingles/verbs compose/Verbs Compose.md",
+    "Excalidraw/Drawing 2025-05-15 23.37.25.excalidraw.md",
+    "Idiomas/Ingles/verbs compose/Get along (with).md",
+    "Idiomas/Ingles/verbs compose/Pick up.md",
+    "Idiomas/Ingles/verbs compose/Run out of.md",
+    "Idiomas/Ingles/verbs compose/Set up.md",
+    "Idiomas/Ingles/verbs compose/Bring up.md",
+    "Idiomas/Ingles/verbs compose/Call off.md",
+    "Idiomas/Ingles/verbs compose/break out.md",
+    "Idiomas/Ingles/verbs compose/Break down.md",
+    "Idiomas/Ingles/verbs compose/Untitled.md",
+    "Welcome.md",
     "Idiomas/Ingles/Frases.md",
     "Idiomas/Ingles/Ingles.md",
     "Untitled.canvas",
@@ -318,18 +326,7 @@
     "Excalidraw/Drawing 2025-04-27 19.53.35.excalidraw.md",
     "Excalidraw/Drawing 2025-04-27 19.53.27.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2025-04-27 19.53.25.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-05 22.22.36.excalidraw.md",
-    "Idiomas/Languages.md",
-    "Idiomas/Ingles/time verbals/Present Perfect Continuous.md",
-    "Idiomas/Ingles/time verbals/Present perfect.md",
-    "Idiomas/Ingles/time verbals/Present Continuous.md",
     "Idiomas/Ingles/time verbals",
-    "Idiomas/Ingles/verbs compose/break out.md",
-    "Idiomas/Ingles/Words.md",
-    "Idiomas/Ingles/differences/Enhance vs improve.md",
-    "Idiomas/Ingles/differences/Overreacting vs Exaggerating.md",
-    "Idiomas/Ingles/differences/Border vs Edge.md",
     "Idiomas/Ingles/gramatic",
     "Idiomas",
     "Untitled 2.canvas",
