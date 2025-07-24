@@ -112,4 +112,12 @@ Mejoró al usar la intuición
 pedimos comida al delivery
 
 **I have to do something else**
-	Tengo que hacer algo más
+Tengo que hacer algo más
+
+**you'll get it in no time**
+lo lograras en poco tiempo
+
+You can chat about whatever you like
+
+**We'll dive right in**
+nos sumergiremos de inmediato en algo
