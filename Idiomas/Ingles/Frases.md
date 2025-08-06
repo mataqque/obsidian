@@ -48,8 +48,8 @@ we're just having fun
 good bye little fellow
 *adios amiguito*
 
-i'm cut out for music
-*Estoy hecho para la música*
+**i'm cut out for music**
+Estoy echo para la música*
 
 I'll take care
 *yo me encargaré*
@@ -121,3 +121,9 @@ You can chat about whatever you like
 
 **We'll dive right in**
 nos sumergiremos de inmediato en algo
+
+**how could she?**
+¿Como podría Ella?
+
+**Now no one's knocked upon my door**
+Ahora nadie ha llamado a mi puerta
