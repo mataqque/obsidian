@@ -127,3 +127,6 @@ nos sumergiremos de inmediato en algo
 
 **Now no one's knocked upon my door**
 Ahora nadie ha llamado a mi puerta
+
+**I need you up here**
+Te necesito aqui adelante

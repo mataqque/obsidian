@@ -1,26 +1,37 @@
  #ingles/diferences
 
-### **1. Improve (Mejorar, perfeccionar)**
+### 🔹 **IMPROVE**
 
-- Se usa cuando algo **tiene fallas o necesita corrección** y se quiere **elevar su calidad o funcionamiento**.
+- Significa **hacer que algo sea mejor** en general.
     
-- Implica un cambio **desde un estado negativo o insuficiente a uno mejor**.
+- Es más **amplio y cotidiano**.
     
-- **Ejemplos:**
+- Ejemplos:
     
-    - _"Quiero **mejorar** mi pronunciación en inglés."_ (Porque actualmente no es buena).
+    - _I want to improve my English._ → Quiero mejorar mi inglés.
         
-    - _"La empresa **mejoró** su servicio al cliente."_ (Antes era malo).
+    - _The situation has improved._ → La situación ha mejorado.
+        
+    - _This medicine will improve your health._ → Esta medicina mejorará tu salud.
         
 
-### **2. Enhance (Mejorar, realzar, potenciar)**
+👉 Usado para progreso, habilidades, situaciones.
 
-- Se refiere a **añadir valor o intensificar** algo que **ya es bueno**, resaltando sus cualidades.
+---
+
+### 🔹 **ENHANCE**
+
+- Significa **realzar, potenciar, resaltar cualidades** que ya existen.
     
-- No implica un problema previo, sino un **enriquecimiento**.
+- Es más **formal y específico**.
     
-- **Ejemplos:**
+- Ejemplos:
     
-    - _"El maquillaje **realzó** sus ojos."_ (Sus ojos ya eran bonitos, ahora destacan más).
+    - _This filter enhances the colors._ → Este filtro realza los colores.
         
-    - _"Esta actualización **potencia** la velocidad del sistema."_ (Ya funcionaba bien, pero ahora es más rápido).
+    - _The new software enhances productivity._ → El nuevo software potencia la productividad.
+        
+    - _Spices enhance the flavor of food._ → Las especias realzan el sabor de la comida.
+        
+
+👉 Usado para añadir valor, hacerlo más atractivo o efectivo.
