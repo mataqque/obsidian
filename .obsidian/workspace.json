@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Frases"
             }
+          },
+          {
+            "id": "e4430bcfedb228d3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -185,18 +197,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e82c77779dca9018",
+  "active": "e4430bcfedb228d3",
   "lastOpenFiles": [
+    "Cotización.md",
+    "Untitled 1.canvas",
+    "Idiomas/Ingles/Frases.md",
+    "Idiomas/Ingles/differences/Border vs Edge.md",
     "Idiomas/Ingles/Ingles.md",
     "Idiomas/Ingles/differences/Enhance vs improve.md",
-    "Idiomas/Ingles/differences/Border vs Edge.md",
     "Idiomas/Ingles/differences/Clever vs Smart.md",
     "Untitled.canvas",
-    "Idiomas/Ingles/Frases.md",
-    "Cotización.md",
     "2025-06-11.md",
     "Pasted image 20250610223114.png",
-    "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 5.canvas",
@@ -221,7 +233,6 @@
     "Idiomas/Ingles/time verbals/Tiempos verbales.md",
     "Idiomas/Ingles/time verbals/Present Simple.md",
     "Idiomas/Ingles/time verbals/Future Perfect Continuous.md",
-    "Idiomas/Ingles/time verbals/Future Perfect.md",
     "Excalidraw",
     "Idiomas/Ingles/time verbals",
     "Idiomas/Ingles/gramatic",
