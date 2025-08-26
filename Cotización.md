@@ -58,3 +58,12 @@
 -  Pruebas funcionales de las páginas
 -  Optimización para móviles, (minificación, reducción del peso de los archivos, cambios el formato de imagen de ser necesario)
 -  Validación de SEO técnico básico
+
+
+
+
+8
+x
+?
+2
+4
