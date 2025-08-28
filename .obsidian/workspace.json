@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cotización.md",
+                "file": "Idiomas/Ingles/Frases/Motivation/Frases de motivación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cotización"
+              "title": "Frases de motivación"
             }
           }
         ],
@@ -203,10 +203,13 @@
   },
   "active": "e4430bcfedb228d3",
   "lastOpenFiles": [
-    "Idiomas/Ingles/Ingles.md",
-    "Cotización.md",
-    "Untitled 1.canvas",
     "Idiomas/Ingles/Frases.md",
+    "Idiomas/Ingles/Frases/Motivation/Frases de motivación.md",
+    "Idiomas/Ingles/Frases/Motivation",
+    "Idiomas/Ingles/Frases",
+    "Cotización.md",
+    "Idiomas/Ingles/Ingles.md",
+    "Untitled 1.canvas",
     "Idiomas/Ingles/differences/Border vs Edge.md",
     "Idiomas/Ingles/differences/Enhance vs improve.md",
     "Idiomas/Ingles/differences/Clever vs Smart.md",
