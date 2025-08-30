@@ -7,3 +7,7 @@
 
 
 **Don't get nervous.** : No te pongas nerviso.
+
+**How do you know you can't if you haven't tried?**.
+Como sabes que no puedes si no lo has intentado.
+
