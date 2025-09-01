@@ -9,7 +9,7 @@
 **askew**: torcido, chueco
 **sword**: espada
 **squid**: calamar
-**basement**: zotano
+**basement**: sótano
 **instead**: en lugar
 **chased**: perseguido
 **burning**: incendio
@@ -23,6 +23,8 @@
 **pouting**: poner mala cara
 **melt**: derretir
 **strike**:derretir, golpear, atacar
-**fuel**: conbustible
+**fuel**: combustible
 **otherwise**: por otro lado
 **tissue**: tejido
+**Doubt**: duda
+**unlike**: a diferencia de

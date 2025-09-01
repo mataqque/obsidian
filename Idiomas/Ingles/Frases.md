@@ -9,53 +9,53 @@ Tienes que saberlo. Vale. No miento. Sí.
 **I haven't slept at all.**
 No he dormido nada
 
-keep your eyes peeled
-*Mantén los ojos bien abiertos*
+**keep your eyes peeled**
+Mantén los ojos bien abiertos
 
-i'm off
-*me voy*
+**i'm off**
+me voy
 
-catch you later
-*te veo mas tarde*
+**catch you later**
+te veo mas tarde
 
-so long!
-*hasta luego*
+**so long!**
+hasta luego
 
-toddles
-*chaito*
+**toddles**
+chaito
 
-have a good one
-*que estes bien*
+**have a good one**
+que estes bien
 
-cut to the chase
-*vamos al grano*
+*cut to the chase*
+vamos al grano
 
-don't beat yourself up
-*no te castigues*
+**don't beat yourself up**
+no te castigues*
 
-safe and sound
-*sano y salvo*
+**safe and sound**
+sano y salvo
 
-you set me up 
-*me tendiste un trampa*
+**you set me up**
+me tendiste una trampa
 
-one rejection isn't the end of the world
-*una caida no es el fin del mundo*
+**one rejection isn't the end of the world**
+una caida no es el fin del mundo
 
-we're just having fun
-*solo estabamos divirtiendonos*
+**we're just having fun**
+solo estabamos divirtiendonos
 
-good bye little fellow
-*adios amiguito*
+**good bye little fellow**
+adios amiguito
 
 **i'm cut out for music**
 Estoy echo para la música*
 
-I'll take care
-*yo me encargaré*
+**I'll take care**
+yo me encargaré
 
-go easy on him
-*Sé amable con él.*
+**go easy on him**
+Sé amable con él
 
 **i can't keep up**
 no puedo seguir el ritmo
@@ -130,3 +130,6 @@ Ahora nadie ha llamado a mi puerta
 
 **I need you up here**
 Te necesito aqui adelante
+
+**you guys need to get to work**
+chicos necesitan ponerse a trabajar (ponerse manos a obra)
