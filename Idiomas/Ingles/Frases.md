@@ -133,3 +133,9 @@ Te necesito aqui adelante
 
 **you guys need to get to work**
 chicos necesitan ponerse a trabajar (ponerse manos a obra)
+
+**it's not that i doubt**
+no es que dude
+
+**how much time is left**
+cuanto tiempo falta ?

@@ -4,7 +4,7 @@ smart: inteligente
 
 ### Diferencias clave
 
-- **Alcance:** _smart_ habla de capacidad general (“a smart student”). _clever_ suena a soluciones ingeniosas o trucos (“a clever idea”, “a clever hack”).
+- **Alcance:**  smart habla de capacidad general (“a smart student”). _clever_ suena a soluciones ingeniosas o trucos (“a clever idea”, “a clever hack”).
     
 - **Tono:** _clever_ a veces implica picardía o truco (“a clever trick”), e incluso puede sonar un poco despectivo: _“Don’t be clever with me.”_
     
