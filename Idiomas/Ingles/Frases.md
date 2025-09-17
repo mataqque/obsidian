@@ -1,6 +1,6 @@
 #ingles/phrases
 
-**She doest know this but she's gonna be my wife**
+**She doesnt know this but she's gonna be my wife**
 Ella no sabe esto, pero ella va ser mi esposa.
 
 **You gotta know that. Okay. I ain't lying. Yeah.**

@@ -28,3 +28,5 @@
 **tissue**: tejido
 **Doubt**: duda
 **unlike**: a diferencia de
+**fold**: doblar, veces
+**useful**: útil
