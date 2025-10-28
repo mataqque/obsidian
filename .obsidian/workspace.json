@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idiomas/Ingles/gramatic/Gramatic.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gramatic"
+              "title": "Untitled"
             }
           }
         ],
@@ -245,6 +245,10 @@
   },
   "active": "4bfdec41a8543d03",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled.md",
+    "Cotización.md",
+    "Idiomas/Ingles/gramatic/Gramatic.md",
     "Idiomas/Ingles/differences/Differences.md",
     "Idiomas/Ingles/differences/Bring up vs Mention.md",
     "Idiomas/Ingles/differences/Border vs Edge.md",
@@ -265,7 +269,6 @@
     "Idiomas/Ingles/Phrasal verbs/Get along (with).md",
     "Idiomas/Ingles/Frases/Motivation",
     "Idiomas/Ingles/Frases",
-    "Cotización.md",
     "Idiomas/Ingles/Ingles.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -279,15 +282,11 @@
     "Untitled 6.canvas",
     "Untitled 4.canvas",
     "2025-05-23.md",
-    "Excalidraw/Drawing 2025-05-23 23.57.54.excalidraw.md",
-    "Idiomas/Ingles/Phrasal verbs/Set up.md",
-    "Excalidraw/Drawing 2025-05-15 23.37.25.excalidraw.md",
     "Excalidraw",
     "Idiomas/Ingles/time verbals",
     "Idiomas/Ingles/gramatic",
     "Idiomas",
     "Idiomas/Ingles/Phrasal verbs",
-    "Idiomas/Ingles/differences",
-    "Idiomas/Ingles"
+    "Idiomas/Ingles/differences"
   ]
 }
