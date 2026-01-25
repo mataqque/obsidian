@@ -139,3 +139,6 @@ no es que dude
 
 **how much time is left**
 cuanto tiempo falta ?
+
+**We've been through this**
+Ya hemos pasado por esto
