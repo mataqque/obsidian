@@ -26,5 +26,7 @@ y ahora lo que quiero es que crees puedas trackear cuantos chat activos tengo, c
 12) ocultar boton de proforma 
 13) solo para finanzas agregar el campo de periodo de finanzamientos,  tasa de interes anual
 14) añadir tipo de departamento
-15) ocultar y eliminar
+15) ocultar y eliminar  los botones de eliminar la funcion aun no debe estar soportada.
 16) Descartado
+17) ver la traducción 
+18) confirmar cuales sería los casos de toast "Confirmó asistencia", "Programó cita - Fecha/hora por confirmar", "Cita por programar","Cita Vencida","Cita Programada"
