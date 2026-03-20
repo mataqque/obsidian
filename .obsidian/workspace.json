@@ -104,9 +104,21 @@
               "icon": "lucide-file",
               "title": "Frases"
             }
+          },
+          {
+            "id": "0e47e3c402ee15f5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -271,7 +283,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c93f490e7af6cb77",
+  "active": "0e47e3c402ee15f5",
   "lastOpenFiles": [
     "Idiomas/Ingles/Frases/Untitled.md",
     "Idiomas/Languages.md",
