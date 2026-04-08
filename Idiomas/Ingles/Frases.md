@@ -145,3 +145,6 @@ Ya hemos pasado por esto
 
 **I was about to render my decision**
 Estaba a punto de dar / emitir mi decisión.
+
+**You know, it is the damndest thing**
+Sabes, es una cosa bien extraña
