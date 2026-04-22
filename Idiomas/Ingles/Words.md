@@ -30,3 +30,4 @@
 **unlike**: a diferencia de
 **fold**: doblar, veces
 **useful**: útil
+**gossip**: chismoso

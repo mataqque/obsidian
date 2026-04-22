@@ -148,3 +148,9 @@ Estaba a punto de dar / emitir mi decisión.
 
 **You know, it is the damndest thing**
 Sabes, es una cosa bien extraña
+
+
+**You don’t know what life has in store for you.**
+No sabes lo que la vida tiene preparado para ti.
+
+

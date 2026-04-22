@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Idiomas/Ingles/Frases.md",
+                "file": "Idiomas/Ingles/Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Frases"
+              "title": "Words"
             }
           }
         ],
@@ -301,15 +301,15 @@
   },
   "active": "d1de246c18f01737",
   "lastOpenFiles": [
-    "Idiomas/Ingles/Frases/Untitled.md",
+    "Idiomas/Ingles/Frases.md",
+    "Cotización.md",
     "Idiomas/Languages.md",
+    "Idiomas/Ingles/Frases/Untitled.md",
     "Untitled.md",
     "Idiomas/Ingles/Phrasal verbs/Get along (with).md",
     "Untitled.base",
     "Idiomas/Ingles/Words.md",
     "Idiomas/Ingles/Ingles.md",
-    "Cotización.md",
-    "Idiomas/Ingles/Frases.md",
     "Idiomas/Ingles/gramatic/Gramatic.md",
     "Idiomas/Ingles/differences/Differences.md",
     "Idiomas/Ingles/differences/Bring up vs Mention.md",
