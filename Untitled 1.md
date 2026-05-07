@@ -1,0 +1,4 @@
+1	Query-scoping real	El middleware solo setea ctx.state.user.tenant_id pero nunca se usa para filtrar queries. Cualquier usuario autenticado puede leer/escribir datos de todos los tenants.
+2	Product no tiene relación tenant	El content type product no tiene un campo que lo asocie a un tenant. Aunque tuvieras scoping, no hay columna para filtrar.
+3	Falta Document Service middleware (Strapi v5)	En v5 necesitas usar strapi.documents().decorate() o un middleware de Document Service para interceptar find, findOne, create, update, delete y auto-inyectar filters: { tenant: { tenant_id } }
+4	Auto-asignar tenant en CREATE	Al crear un registro nuevo, nadie setea automáticamente el tenant al del usuario actual.
