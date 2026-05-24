@@ -23,7 +23,7 @@
 **pouting**: poner mala cara
 **melt**: derretir
 **strike**:derretir, golpear, atacar
-**fuel**: combustible
+s**fuel**: combustible
 **otherwise**: por otro lado
 **tissue**: tejido
 **Doubt**: duda
@@ -31,3 +31,4 @@
 **fold**: doblar, veces
 **useful**: útil
 **gossip**: chismoso
+**aware**: conciente, enterado , al tanto

@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Idiomas/Ingles/Words.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Words"
             }
           }
         ],
@@ -315,8 +315,8 @@
   },
   "active": "a6f9e46f48386127",
   "lastOpenFiles": [
-    "Untitled.md",
     "Untitled 1.md",
+    "Untitled.md",
     "Cotización.md",
     "Idiomas/Ingles/Words.md",
     "Idiomas/Ingles/Frases.md",
