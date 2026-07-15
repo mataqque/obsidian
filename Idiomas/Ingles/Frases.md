@@ -155,3 +155,6 @@ No sabes lo que la vida tiene preparado para ti.
 
 **Any flavor request**
 Algún saber en particular?
+
+**do you realize how important that is?**
+te das cuenta de lo importante que es ?
