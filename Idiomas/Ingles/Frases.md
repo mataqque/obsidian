@@ -160,4 +160,4 @@ Algún saber en particular?
 te das cuenta de lo importante que es ?
 
 **He could not** 
-El no pudo 0
+El no pudo
