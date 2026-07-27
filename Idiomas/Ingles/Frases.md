@@ -158,3 +158,6 @@ Algún saber en particular?
 
 **do you realize how important that is?**
 te das cuenta de lo importante que es ?
+
+**He could not** 
+El no pudo 0
