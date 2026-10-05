@@ -160,9 +160,19 @@
               "icon": "lucide-file",
               "title": "Frases"
             }
+          },
+          {
+            "id": "fe044b1a223dd1f7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -327,8 +339,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5249f7b136a501db",
+  "active": "fe044b1a223dd1f7",
   "lastOpenFiles": [
+    "Idiomas/Ingles/time verbals/Future Continuous.md",
+    "Idiomas/Ingles/differences/Bring up vs Raise.md",
+    "Idiomas/Ingles/differences/Overreacting vs Exaggerating.md",
     "Idiomas/Languages.md",
     "Untitled 2.md",
     "Idiomas/Ingles/Frases.md",
@@ -347,15 +362,12 @@
     "Idiomas/Ingles/differences/show up vs appear.md",
     "Idiomas/Ingles/Frases/Motivation/Frases de motivación.md",
     "Idiomas/Ingles/differences/Clever vs Smart.md",
-    "Idiomas/Ingles/differences/Bring up vs Raise.md",
     "Idiomas/Ingles/Phrasal verbs/Bring up.md",
     "Idiomas/Ingles/Phrasal verbs/break out.md",
     "Idiomas/Ingles/Phrasal verbs/Break down.md",
-    "Idiomas/Ingles/differences/Overreacting vs Exaggerating.md",
     "Idiomas/Ingles/differences/Enhance vs improve.md",
     "Idiomas/Ingles/Phrasal verbs/Catch up.md",
     "Idiomas/Ingles/Phrasal verbs/Verbs Compose.md",
-    "Idiomas/Ingles/Phrasal verbs/Pick up.md",
     "Idiomas/Ingles/Frases/Motivation",
     "Idiomas/Ingles/Frases",
     "Untitled 1.canvas",
